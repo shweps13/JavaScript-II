@@ -1,7 +1,11 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
+const username = 'Heorhii Siburov'
+  function greetMe() {
+    console.log('Hi there, ' + username + '!')
+  }
 
-
+  greetMe()
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
